@@ -1,0 +1,1 @@
+import{$t as e,Mn as t,Pn as n,kn as r}from"./dimensions-BY0g1_Fk.js";function i(){let i=t(!1);return e(()=>{window.requestAnimationFrame(()=>{i.value=!0})}),{ssrBootStyles:n(()=>i.value?void 0:{transition:`none !important`}),isBooted:r(i)}}export{i as t};
